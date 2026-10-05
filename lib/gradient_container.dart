@@ -1,5 +1,7 @@
 import 'package:first_flutter_app/style_text.dart';
 import 'package:flutter/material.dart';
+//import 'package:flutter_lab4_app/styled_text.dart';
+
 
 const startAlignment = Alignment.topCenter;
 const endAlignment = Alignment.bottomCenter;
@@ -22,6 +24,7 @@ class GradientContainer extends StatelessWidget {
                           )
                       ),
                       child: Center(
-                        child: StyleText("bye world...")));
+                        child: Image.asset('assets/images/dice-1.png',
+                        width: 300,)));
   }
 }
