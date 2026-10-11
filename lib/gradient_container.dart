@@ -1,5 +1,4 @@
 import 'package:first_flutter_app/dice_roller.dart';
-import 'package:first_flutter_app/style_text.dart';
 import 'package:flutter/material.dart';
 //import 'package:flutter_lab4_app/styled_text.dart';
 
